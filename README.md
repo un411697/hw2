@@ -1,2 +1,2 @@
 # hw2
-asd
+hw2,  Instant Messenger client and server
